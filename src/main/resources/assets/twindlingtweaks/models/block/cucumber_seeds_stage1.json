@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "twindlingtweaks:block/cucumber_seeds_stage1"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SS",
+    "PP"
+  ],
+  "key": {
+    "P": {
+      "item": "twindlingtweaks:catalpa_planks"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "minecraft:loom"
+  }
+}

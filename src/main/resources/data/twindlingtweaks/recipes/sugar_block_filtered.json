@@ -1,0 +1,12 @@
+{
+  "type": "twindlingtweaks:filtering",
+  "ingredients": [
+    {
+      "item": "twindlingtweaks:unfiltered_sugar_block"
+    }
+  ],
+  "output": {
+    "count": 3,
+    "item": "twindlingtweaks:sugar_block"
+  }
+}

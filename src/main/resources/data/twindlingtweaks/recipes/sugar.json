@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "twindlingtweaks:sugar_block"
+    }
+
+  ],
+  "result": {
+    "item": "minecraft:sugar",
+    "count": 9
+  }
+}
+

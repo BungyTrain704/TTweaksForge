@@ -1,0 +1,14 @@
+{
+  "type": "twindlingtweaks:forging",
+  "ingredients": [
+    {
+      "item": "twindlingtweaks:reinforced_obsidian"
+    },
+    {
+      "item": "twindlingtweaks:raw_luminium"
+    }
+  ],
+  "output": {
+    "item": "twindlingtweaks:luminium_gem"
+  }
+}

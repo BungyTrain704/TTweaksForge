@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "twindlingtweaks:mud_ore",
+    "twindlingtweaks:deepslate_mud_ore",
+    "twindlingtweaks:sugar_ore",
+    "twindlingtweaks:deepslate_sugar_ore",
+    "twindlingtweaks:crusher"
+  ]
+}

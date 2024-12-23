@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "twindlingtweaks:alluminite_ingot"
+    },
+    "title": "First Steps",
+    "description": "Blue? It's all I could ever ask for!",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "background": "twindlingtweaks:textures/block/alluminite_block.png"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twindlingtweaks:alluminite_ingot"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

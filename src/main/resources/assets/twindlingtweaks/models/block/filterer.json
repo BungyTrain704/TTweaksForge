@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "minecraft:block/iron_block",
+    "east": "twindlingtweaks:block/filterer_east",
+    "north": "twindlingtweaks:block/filterer_north",
+    "particle": "twindlingtweaks:block/filterer_north",
+    "south": "twindlingtweaks:block/filterer_south",
+    "up": "twindlingtweaks:block/filterer_up",
+    "west": "twindlingtweaks:block/filterer_west"
+  }
+    }

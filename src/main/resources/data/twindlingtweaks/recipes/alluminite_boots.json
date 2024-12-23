@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "twindlingtweaks:reinforced_alluminite_ingot"
+    }
+  },
+  "result": {
+    "item": "twindlingtweaks:alluminite_boots"
+  }
+}

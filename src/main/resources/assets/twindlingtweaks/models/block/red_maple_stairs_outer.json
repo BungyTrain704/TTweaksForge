@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "twindlingtweaks:block/red_maple_planks",
+    "top": "twindlingtweaks:block/red_maple_planks",
+    "side": "twindlingtweaks:block/red_maple_planks"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "minecraft:bread"
+  },
+  "result": "twindlingtweaks:crouton",
+  "experience": 0.35,
+  "cookingtime": 80
+}

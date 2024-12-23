@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "twindlingtweaks:raw_alluminite_block"
+    }
+  ],
+  "result": {
+    "item": "twindlingtweaks:raw_alluminite",
+    "count": 9
+  }
+}

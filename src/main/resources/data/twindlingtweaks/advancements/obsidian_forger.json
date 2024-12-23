@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "twindlingtweaks:obsidian_forger"
+    },
+    "title": "On The Path To The Dark Side",
+    "description": "Oh Great! Did I screw up?",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "twindlingtweaks:alluminite",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twindlingtweaks:obsidian_forger"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

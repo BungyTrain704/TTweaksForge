@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "twindlingtweaks:block/catalpa_slab"
+    },
+    "type=double": {
+      "model": "twindlingtweaks:block/catalpa_planks"
+    },
+    "type=top": {
+      "model": "twindlingtweaks:block/catalpa_slab_top"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "SFS",
+    "LLL"
+  ],
+  "key": {
+    "L": {
+      "item": "twindlingtweaks:red_maple_log"
+    },
+    "F": {
+      "tag": "minecraft:soul_fire_base_blocks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:soul_campfire"
+  }
+}

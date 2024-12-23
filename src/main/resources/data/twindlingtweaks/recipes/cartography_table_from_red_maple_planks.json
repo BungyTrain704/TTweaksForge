@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AA",
+    "PP",
+    "PP"
+  ],
+  "key": {
+    "P": {
+      "item": "twindlingtweaks:red_maple_planks"
+    },
+    "A": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "minecraft:cartography_table"
+  }
+}

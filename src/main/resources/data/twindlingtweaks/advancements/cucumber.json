@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "twindlingtweaks:cucumber"
+    },
+    "title": "I think that I've been pranked.",
+    "description": "It's definitely not a rectangle.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "twindlingtweaks:cucumber_seeds",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twindlingtweaks:cucumber"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "twindlingtweaks:dried_mud_ball"
+    },
+    "title": "It's just dirt.",
+    "description": "Do not eat it.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "twindlingtweaks:extras",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twindlingtweaks:dried_mud_ball"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

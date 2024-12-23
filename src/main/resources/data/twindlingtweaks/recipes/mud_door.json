@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DD ",
+    "MM ",
+    "DD "
+  ],
+  "key": {
+    "D": {
+      "item": "twindlingtweaks:dried_mud_ball"
+    },
+      "M": {
+        "item": "twindlingtweaks:mud_block"
+      }
+    },
+    "result": {
+      "item": "twindlingtweaks:mud_door",
+      "count": 3
+    }
+  }

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "twindlingtweaks:mud_ball"
+  },
+  "result": "twindlingtweaks:dried_mud_ball",
+  "experience": 0.45,
+  "cookingtime": 100
+}

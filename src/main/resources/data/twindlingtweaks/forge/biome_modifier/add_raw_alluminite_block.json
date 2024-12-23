@@ -1,0 +1,6 @@
+{
+  "type": "twindlingtweaks:ores",
+  "biomes": "#minecraft:is_overworld",
+  "feature": "twindlingtweaks:raw_alluminite_block_placed",
+  "step": "underground_ores"
+}

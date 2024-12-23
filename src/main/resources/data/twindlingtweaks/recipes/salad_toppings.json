@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "twindlingtweaks:lettuce"
+    },
+    {
+      "item": "twindlingtweaks:crouton"
+    },
+    {
+      "item": "twindlingtweaks:tomato"
+    },
+    {
+      "item": "twindlingtweaks:cucumber"
+    }
+  ],
+  "result": {
+    "item": "twindlingtweaks:salad_toppings"
+  }
+}

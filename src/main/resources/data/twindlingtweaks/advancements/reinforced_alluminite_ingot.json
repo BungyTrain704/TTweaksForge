@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "twindlingtweaks:reinforced_alluminite_ingot"
+    },
+    "title": "Like The Rock But Blue",
+    "description": "If you mixed the iron and the blue, clap your hands!",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "twindlingtweaks:alluminite",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twindlingtweaks:reinforced_alluminite_ingot"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "twindlingtweaks:alluminite_ingot"
+    }
+
+  ],
+  "result": {
+    "item": "twindlingtweaks:alluminite_nugget",
+    "count": 9
+  }
+}

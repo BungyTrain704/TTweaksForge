@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AA",
+    " S",
+    " S"
+  ],
+  "key": {
+    "A": {
+      "item": "twindlingtweaks:reinforced_alluminite_ingot"
+    },
+    "S": {
+      "item": "twindlingtweaks:alluminite_rod"
+    }
+  },
+  "result": {
+    "item": "twindlingtweaks:alluminite_hoe",
+    "count": 1
+  }
+}

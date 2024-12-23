@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "#twindlingtweaks:catalpa_logs",
+    "#twindlingtweaks:red_maple_logs",
+    "#minecraft:logs_that_burn",
+    "#minecraft:crimson_stems",
+    "#minecraft:warped_stems"
+
+  ]
+}

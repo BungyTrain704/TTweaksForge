@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_right_open",
+  "textures": {
+    "top": "twindlingtweaks:block/mud_door_top",
+    "bottom": "twindlingtweaks:block/mud_door_bottom"
+  }
+}

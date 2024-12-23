@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "POP",
+    "GAG",
+    "POP"
+  ],
+  "key": {
+    "A": {
+      "item": "twindlingtweaks:reinforced_alluminite_ingot"
+    },
+    "O": {
+      "item": "twindlingtweaks:reinforced_obsidian"
+    },
+    "P": {
+      "item": "minecraft:polished_andesite"
+    },
+    "G": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "twindlingtweaks:crusher"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "texture": "twindlingtweaks:block/red_maple_planks"
+  }
+}

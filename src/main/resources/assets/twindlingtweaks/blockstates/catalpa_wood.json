@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "twindlingtweaks:block/catalpa_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "twindlingtweaks:block/catalpa_wood"
+    },
+    "axis=z": {
+      "model": "twindlingtweaks:block/catalpa_wood",
+      "x": 90
+    }
+  }
+}

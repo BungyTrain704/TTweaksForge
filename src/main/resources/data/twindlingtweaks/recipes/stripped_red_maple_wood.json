@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "twindlingtweaks:stripped_red_maple_log"
+    }
+  },
+  "result": {
+    "item": "twindlingtweaks:stripped_red_maple_wood"
+  }
+}
+

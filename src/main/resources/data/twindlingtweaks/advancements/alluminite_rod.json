@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "twindlingtweaks:alluminite_rod"
+    },
+    "title": "Expansion",
+    "description": "I don't understand but sure, I guess.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "twindlingtweaks:alluminite_rod_shard",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twindlingtweaks:alluminite_rod"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

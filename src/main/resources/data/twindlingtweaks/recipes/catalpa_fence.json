@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PSP",
+    "PSP"
+  ],
+  "key": {
+    "P": {
+      "item": "twindlingtweaks:catalpa_planks"
+    },
+    "S": {
+      "item": "twindlingtweaks:catalpa_stick"
+    }
+  },
+  "result": {
+    "item": "twindlingtweaks:catalpa_fence"
+  }
+}

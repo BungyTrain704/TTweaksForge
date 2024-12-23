@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IPI",
+    "PAP",
+    "IPI"
+  ],
+  "key": {
+    "P": {
+      "item": "twindlingtweaks:catalpa_planks"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "A": {
+      "item": "twindlingtweaks:reinforced_alluminite_ingot"
+    }
+  },
+  "result": {
+    "item": "twindlingtweaks:filterer"
+  }
+}

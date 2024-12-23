@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "twindlingtweaks:red_maple_log"
+    },
+    "title": "A Start To Agriculture",
+    "description": "Red like apples and sweet like nectar!",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "background": "twindlingtweaks:textures/block/dried_mud_block.png"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twindlingtweaks:red_maple_log"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

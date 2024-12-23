@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "twindlingtweaks:catalpa_log"
+    },
+    "title": "Christmas!",
+    "description": "Red + Green = Christmas!",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "twindlingtweaks:agriculture",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twindlingtweaks:catalpa_log"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

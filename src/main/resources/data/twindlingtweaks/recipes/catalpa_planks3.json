@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "twindlingtweaks:stripped_catalpa_log"
+    }
+
+  ],
+  "result": {
+    "item": "twindlingtweaks:catalpa_planks",
+    "count": 4
+  }
+}

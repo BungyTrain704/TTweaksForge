@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "twindlingtweaks:red_maple_planks"
+    }
+  ],
+  "result": {
+    "item": "twindlingtweaks:red_maple_button",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "twindlingtweaks:stripped_red_maple_wood"
+    }
+
+  ],
+  "result": {
+    "item": "twindlingtweaks:red_maple_planks",
+    "count": 4
+  }
+}

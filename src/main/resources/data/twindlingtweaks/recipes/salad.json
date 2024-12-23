@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "twindlingtweaks:salad_toppings"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "twindlingtweaks:ranch_bottle"
+    }
+  ],
+  "result": {
+    "item": "twindlingtweaks:salad"
+  }
+}

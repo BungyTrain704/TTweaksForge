@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "twindlingtweaks:red_maple_logs"
+  },
+  "result": "minecraft:charcoal",
+  "experience": 0.35,
+  "cookingtime": 100
+}

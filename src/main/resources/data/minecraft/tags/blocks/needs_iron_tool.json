@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "twindlingtweaks:deepslate_alluminite_ore",
+    "twindlingtweaks:alluminite_ore",
+    "twindlingtweaks:alluminite_block",
+    "twindlingtweaks:raw_alluminite_block",
+    "twindlingtweaks:deepslate_luminium_ore",
+    "twindlingtweaks:luminium_ore",
+    "twindlingtweaks:luminium_block",
+    "twindlingtweaks:raw_luminium_block",
+    "twindlingtweaks:filterer"
+  ]
+}

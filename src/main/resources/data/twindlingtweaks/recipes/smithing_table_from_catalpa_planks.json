@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "II",
+    "PP",
+    "PP"
+  ],
+  "key": {
+    "P": {
+      "item": "twindlingtweaks:catalpa_planks"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:smithing_table"
+  }
+}

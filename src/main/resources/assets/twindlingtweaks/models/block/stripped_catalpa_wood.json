@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "twindlingtweaks:block/stripped_catalpa_log",
+    "side": "twindlingtweaks:block/stripped_catalpa_log"
+  }
+}

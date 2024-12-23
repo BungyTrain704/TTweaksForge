@@ -1,0 +1,14 @@
+{
+  "type": "twindlingtweaks:forging",
+  "ingredients": [
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "twindlingtweaks:reinforced_alluminite_ingot"
+     }
+  ],
+  "output": {
+    "item": "twindlingtweaks:reinforced_obsidian"
+  }
+}

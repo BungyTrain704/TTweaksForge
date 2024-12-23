@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "ISA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "twindlingtweaks:alluminite_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "twindlingtweaks:alluminite_rod_shard",
+    "count": 3
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "twindlingtweaks:lettuce"
+    },
+    "title": "This isn't spinach...",
+    "description": "With great planting comes great lettuce.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "twindlingtweaks:lettuce_seeds",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twindlingtweaks:lettuce"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

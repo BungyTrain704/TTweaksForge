@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "all": "twindlingtweaks:block/avocado_seeds_stage7"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "twindlingtweaks:cucumber_seeds"
+    },
+    "title": "This one seems sketchy but sure.",
+    "description": "Let's see what it grows, I guess.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "twindlingtweaks:tomato",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twindlingtweaks:cucumber_seeds"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

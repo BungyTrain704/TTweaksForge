@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "twindlingtweaks:catalpa_logs"
+  },
+  "result": "minecraft:charcoal",
+  "experience": 0.35,
+  "cookingtime": 100
+}

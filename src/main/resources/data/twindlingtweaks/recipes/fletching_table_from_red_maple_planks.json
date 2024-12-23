@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FF",
+    "PP",
+    "PP"
+  ],
+  "key": {
+    "P": {
+      "item": "twindlingtweaks:red_maple_planks"
+    },
+    "F": {
+      "item": "minecraft:flint"
+    }
+  },
+  "result": {
+    "item": "minecraft:fletching_table"
+  }
+}

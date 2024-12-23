@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "twindlingtweaks:reinforced_obsidian"
+    },
+    "title": "Fusion Confusion",
+    "description": "I thought only steaks could be black and blue...",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "twindlingtweaks:obsidian_forger",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twindlingtweaks:reinforced_obsidian"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

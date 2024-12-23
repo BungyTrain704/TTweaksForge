@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "twindlingtweaks:catalpa_planks"
+    }
+  },
+  "result": {
+    "item": "twindlingtweaks:catalpa_slab"
+  }
+}

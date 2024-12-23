@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "twindlingtweaks:alluminite_rod_shard"
+    },
+    "title": "It's short, just like Nick!",
+    "description": "Bet you didn't expect that, Nick.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "twindlingtweaks:reinforced_alluminite_ingot",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twindlingtweaks:alluminite_rod_shard"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

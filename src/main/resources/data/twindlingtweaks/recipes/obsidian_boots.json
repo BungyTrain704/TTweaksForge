@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "twindlingtweaks:reinforced_obsidian"
+    }
+  },
+  "result": {
+    "item": "twindlingtweaks:obsidian_boots"
+  }
+}

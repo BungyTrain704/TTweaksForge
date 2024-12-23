@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "twindlingtweaks:crouton"
+    },
+    "title": "Crouton!",
+    "description": "Did I do that right? It feels like there should have been a few extra steps.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "twindlingtweaks:cucumber",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twindlingtweaks:crouton"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

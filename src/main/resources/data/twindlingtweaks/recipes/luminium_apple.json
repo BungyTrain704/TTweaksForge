@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#-#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "twindlingtweaks:luminium_block"
+    },
+    "-": {
+      "item": "minecraft:golden_apple"
+    }
+  },
+  "result": {
+    "item": "twindlingtweaks:luminium_apple"
+  }
+}

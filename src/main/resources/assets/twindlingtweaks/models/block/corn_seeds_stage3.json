@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "twindlingtweaks:block/corn_seeds_stage3"
+  }
+}

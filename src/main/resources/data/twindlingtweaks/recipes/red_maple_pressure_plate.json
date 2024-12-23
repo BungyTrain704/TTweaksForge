@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PP"
+  ],
+  "key": {
+    "P": {
+      "item": "twindlingtweaks:red_maple_planks"
+    }
+  },
+  "result": {
+    "item": "twindlingtweaks:red_maple_pressure_plate"
+  }
+}

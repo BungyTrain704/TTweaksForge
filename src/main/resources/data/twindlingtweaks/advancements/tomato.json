@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "twindlingtweaks:tomato"
+    },
+    "title": "No, Sheep.",
+    "description": "These are my Tomatoes. Stop eyeing them or I'll whip out my sword.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "twindlingtweaks:tomato_seeds",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twindlingtweaks:tomato"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

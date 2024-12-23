@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RR ",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "R": {
+      "item": "twindlingtweaks:reinforced_obsidian"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "twindlingtweaks:obsidian_hoe",
+    "count": 1
+  }
+}

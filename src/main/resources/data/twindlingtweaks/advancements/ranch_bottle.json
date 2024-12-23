@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "twindlingtweaks:ranch_bottle"
+    },
+    "title": "Something's off here...",
+    "description": "I feel like this shouldn't be edible...",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "twindlingtweaks:crouton",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twindlingtweaks:ranch_bottle"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DAD",
+    "LLL",
+    "DAD"
+  ],
+  "key": {
+    "L": {
+      "item": "twindlingtweaks:luminium_chunk"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "A": {
+      "item": "twindlingtweaks:alluminite_nugget"
+    }
+  },
+  "result": {
+    "item": "twindlingtweaks:raw_luminium"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " L ",
+    "LFL",
+    " L "
+  ],
+  "key": {
+    "L": {
+      "item": "twindlingtweaks:red_maple_log"
+    },
+    "F": {
+      "item": "minecraft:furnace"
+    }
+  },
+  "result": {
+    "item": "minecraft:white_bed"
+  }
+}

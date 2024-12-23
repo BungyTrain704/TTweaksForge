@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "twindlingtweaks:catalpa_planks"
+    }
+  ],
+  "result": {
+    "item": "twindlingtweaks:catalpa_button",
+    "count": 1
+  }
+}

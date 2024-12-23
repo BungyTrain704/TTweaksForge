@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "twindlingtweaks:mud_ball"
+    },
+    "title": "Extras",
+    "description": "All the other advancements!",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "background": "twindlingtweaks:textures/block/mud_block.png"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twindlingtweaks:mud_ball"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

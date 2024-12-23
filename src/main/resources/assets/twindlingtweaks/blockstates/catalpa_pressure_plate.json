@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "twindlingtweaks:block/catalpa_pressure_plate" },
+    "powered=true": { "model": "twindlingtweaks:block/catalpa_pressure_plate_down" }
+  }
+}

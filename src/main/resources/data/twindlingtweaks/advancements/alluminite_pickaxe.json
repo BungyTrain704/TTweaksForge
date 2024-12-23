@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "twindlingtweaks:alluminite_pickaxe"
+    },
+    "title": "Better than diamond",
+    "description": "It's bluer and cooler then diamond!",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "twindlingtweaks:alluminite_rod",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twindlingtweaks:alluminite_pickaxe"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

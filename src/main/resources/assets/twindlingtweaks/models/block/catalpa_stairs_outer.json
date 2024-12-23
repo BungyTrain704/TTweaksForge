@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "twindlingtweaks:block/catalpa_planks",
+    "top": "twindlingtweaks:block/catalpa_planks",
+    "side": "twindlingtweaks:block/catalpa_planks"
+  }
+}

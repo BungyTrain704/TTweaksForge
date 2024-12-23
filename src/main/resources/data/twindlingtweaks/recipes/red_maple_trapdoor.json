@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "twindlingtweaks:red_maple_planks"
+    }
+    },
+    "result": {
+      "item": "twindlingtweaks:red_maple_trapdoor",
+      "count": 3
+    }
+  }

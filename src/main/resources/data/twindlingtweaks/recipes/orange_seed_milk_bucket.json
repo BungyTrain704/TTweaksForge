@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "twindlingtweaks:orange_seed_powder"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    }
+
+  ],
+  "result": {
+    "item": "twindlingtweaks:orange_seed_milk_bucket",
+    "count": 1
+  }
+}

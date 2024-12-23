@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "twindlingtweaks:catalpa_planks"
+    },
+    "W": {
+      "item": "minecraft:lime_wool"
+    }
+  },
+  "result": {
+    "item": "minecraft:lime_bed"
+  }
+}

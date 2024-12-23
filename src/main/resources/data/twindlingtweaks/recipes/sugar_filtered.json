@@ -1,0 +1,12 @@
+{
+  "type": "twindlingtweaks:filtering",
+  "ingredients": [
+    {
+      "item": "twindlingtweaks:unfiltered_sugar"
+    }
+  ],
+  "output": {
+    "count": 2,
+    "item": "minecraft:sugar"
+  }
+}

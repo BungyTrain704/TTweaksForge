@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CC",
+    "CC",
+    "CC"
+  ],
+  "key": {
+    "C": {
+      "item": "twindlingtweaks:catalpa_planks"
+    }
+  },
+    "result": {
+      "item": "twindlingtweaks:catalpa_door",
+      "count": 3
+    }
+  }

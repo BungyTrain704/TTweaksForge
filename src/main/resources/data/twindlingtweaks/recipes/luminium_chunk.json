@@ -1,0 +1,12 @@
+{
+  "type": "twindlingtweaks:filtering",
+  "ingredients": [
+    {
+      "item": "twindlingtweaks:unprocessed_luminium_chunk"
+    }
+  ],
+  "output": {
+    "count": 1,
+    "item": "twindlingtweaks:luminium_chunk"
+  }
+}

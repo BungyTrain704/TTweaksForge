@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  D",
+    "RW ",
+    "RR "
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:red_dye"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "W": {
+      "item": "minecraft:wheat_seeds"
+    }
+  },
+  "result": {
+    "item": "twindlingtweaks:tomato_seeds",
+    "count": 3
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IAI",
+    "AAA",
+    "IAI"
+  ],
+  "key": {
+    "A": {
+      "item": "twindlingtweaks:alluminite_ingot"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "twindlingtweaks:reinforced_alluminite_ingot",
+    "count": 2
+  }
+}
